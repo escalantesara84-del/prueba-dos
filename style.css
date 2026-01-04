@@ -79,4 +79,24 @@ body {
   }
 }
 
+.titulo {
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  letter-spacing: 3px;
+  font-family: Arial, sans-serif;
+}
+
+.footer {
+  position: fixed;
+  bottom: 10px;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.6);
+  font-family: Arial, sans-serif;
+  pointer-events: none;
+}
 
